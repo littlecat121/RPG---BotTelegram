@@ -4,7 +4,7 @@ from telegram.ext import Updater, CommandHandler
 import telegram.update
 import logging
 
-TOKEN="1319174941:AAHakUAYngJUEsSyowCz1cUliADv5YzSzFw"
+TOKEN="Secret"
 
 def start(update, context):
     s = "Maxwell is happy to see you!"
